@@ -1,5 +1,6 @@
 package com.example.ExpenceTracker.dto;
 
+
 public class AuthResponse {
 
     private String username;
